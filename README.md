@@ -1,2 +1,12 @@
 # Shrek--Outhouse-Macropad
 The  Shrek's Outhouse Macropad is a 2x3 Macropad that looks like Shrek’s outhouse. It was made to make everyday tasks, such as switching tabs, easier. It is also designed to be used as a device that can be set to do anything, for example, starting a recording in OBS.
+
+# Features
+- 6 programmable keys
+- USB-C support
+- Modelled after Shrek’s outhouse with its features, such as the crescent moon 
+
+# CAD Model
+Everything fits together using 5 M3 Bolts
+
+My CAD Model has 3 different 3D printable parts. After putting together the bottom and middle part you pust then insert the PCB and then wire all your components. Once that is finished, you can place the top cover.  This Macropad holds 6 differenrt programable keys. 
