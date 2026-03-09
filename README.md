@@ -33,6 +33,12 @@ PCB:
 # BOM
 Here is everything you will need to make this macropad!
 
+- X6 DSA Keycaps
+- X6 Cherry MX Switches
+- 
+- X1 RaspberryPI-Pico
+  
+
 
 
 
