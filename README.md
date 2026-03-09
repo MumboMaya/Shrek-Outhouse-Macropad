@@ -13,3 +13,12 @@ My CAD Model has 3 different 3D printable parts. After putting together the bott
 
 
 ![CAD File](https://github.com/user-attachments/assets/853d0b57-b747-409b-b01b-0c148ac34c24)
+
+# PCB
+Here is my PCB, it was made using Kicad!
+Schematic:
+![Schematic](https://github.com/user-attachments/assets/64e60fb1-c5e6-4fd6-90ad-42f65683e301)
+
+PCB:
+![PCB](https://github.com/user-attachments/assets/187f7447-1bfa-44f2-85ed-bc6b744c3ae3)
+
