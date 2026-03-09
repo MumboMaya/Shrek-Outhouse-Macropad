@@ -18,8 +18,6 @@ My CAD Model has 3 different 3D printable parts. After putting together the bott
 Here is my PCB, it was made using Kicad!
 
 Schematic:
-
-
 ![Schematic](https://github.com/user-attachments/assets/64e60fb1-c5e6-4fd6-90ad-42f65683e301)
 
 
