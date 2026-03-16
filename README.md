@@ -7,7 +7,7 @@ The  Shrek's Outhouse Macropad is a 2x3 Macropad that looks like Shrek’s outho
 - Modelled after Shrek’s outhouse with its features, such as the crescent moon 
 
 # CAD Model
-Everything fits together using 5 M3 Bolts
+Everything fits together using X4 M3x18 Bolts and x4 M3 nuts
 
 My CAD Model has 3 different 3D printable parts. After putting together the bottom and middle part you pust then insert the PCB and then wire all your components. Once that is finished, you can place the top cover.  This Macropad holds 6 differenrt programable keys. 
 
