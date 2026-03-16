@@ -11,7 +11,7 @@ Everything fits together using 5 M3 Bolts
 
 My CAD Model has 3 different 3D printable parts. After putting together the bottom and middle part you pust then insert the PCB and then wire all your components. Once that is finished, you can place the top cover.  This Macropad holds 6 differenrt programable keys. 
 
-
+![CAD](./images/CAD File.jpeg)
 
 
 # PCB
