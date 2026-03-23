@@ -18,12 +18,14 @@ My CAD Model has 3 different 3D printable parts. After putting together the bott
 # PCB
 Here is my PCB, it was made using Kicad!
 
-## Schematic:
+### Schematic:
 
 ![Schematic](https://github.com/user-attachments/assets/64e60fb1-c5e6-4fd6-90ad-42f65683e301)
 
 
-## PCB:
+### PCB:
+
+
 
 ![PCB](https://github.com/user-attachments/assets/187f7447-1bfa-44f2-85ed-bc6b744c3ae3)
 
@@ -31,7 +33,7 @@ Here is my PCB, it was made using Kicad!
 # Firmware Overview
 QMK is used to generate the firmware and VIA is used to remap the keys without re-flashing the macropad. One the macropad is flashed with the VIA-enabled firmware, the macropad keymap can be changed using https://www.usevia.app/ in a CHROMIUM BASED browser (it will not work in non-chromium based browsers due to lack of WebHID support). With this website you can see what browsers are supported: https://caniuse.com/?search=webhid. The VIA desktop app can also be used.
 
-## Features:
+### Features:
 
 - VIA-enabled dynamic keymaps
 - EEPROM-based configuration storage so that keymaps are remembered between powercycles
