@@ -31,7 +31,6 @@ PCB:
 # Firmware Overview
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [EpicPenguin5078Git](https://github.com/EpicPenguin5078Git)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
