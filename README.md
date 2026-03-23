@@ -50,7 +50,9 @@ Here is everything you will need to make this macropad!
   
 
 
+**# Overview:**
 
+QMK is used to generate the firmware and VIA is used to remap the keys without re-flashing the macropad. One the macropad is flashed with the VIA-enabled firmware, the macropad keymap can be changed using https://www.usevia.app/ in a CHROMIUM BASED browser (it will not work in non-chromium based browsers due to lack of WebHID support). At this website you can see what browsers are supported: https://caniuse.com/?search=webhid. The VIA desktop app can also be us
 
 
 
