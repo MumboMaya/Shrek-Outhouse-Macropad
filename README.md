@@ -29,28 +29,15 @@ PCB:
 
 
 # Firmware Overview
-*A short description of the keyboard/project*
+QMK is used to generate the firmware and VIA is used to remap the keys without re-flashing the macropad. One the macropad is flashed with the VIA-enabled firmware, the macropad keymap can be changed using https://www.usevia.app/ in a CHROMIUM BASED browser (it will not work in non-chromium based browsers due to lack of WebHID support). With this website you can see what browsers are supported: https://caniuse.com/?search=webhid. The VIA desktop app can also be used.
 
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+# Features:
 
-Make example for this keyboard (after setting up your build environment):
+- VIA-enabled dynamic keymaps
+- EEPROM-based configuration storage so that keymaps are remembered between powercycles
+- Bootmagic support for resetting
+- Compatible with VIA web app and VIA desktop app
 
-    make shrekmacropad:default
-
-Flashing example for this keyboard:
-
-    make shrekmacropad:default:flash
-
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
-
-## Bootloader
-
-Enter the bootloader in 3 ways:
-
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
 
 # BOM
 Here is everything you will need to make this macropad!
