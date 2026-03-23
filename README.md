@@ -25,8 +25,6 @@ Here is my PCB, it was made using Kicad!
 
 ### PCB:
 
-
-
 ![PCB](https://github.com/user-attachments/assets/187f7447-1bfa-44f2-85ed-bc6b744c3ae3)
 
 
