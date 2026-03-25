@@ -46,7 +46,7 @@ Here is everything you will need to make this macropad!
 - X6 Cherry MX Switches
 - X4 M3x18 bolts
 - X4 M3 nuts
-- X1 RaspberryPI-Pico
+- X1 Seeduino XIAO RP2040
   
 
 
