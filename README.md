@@ -20,12 +20,12 @@ Here is my PCB, it was made using Kicad!
 
 ### Schematic:
 
-![Schematic](https://github.com/user-attachments/assets/64e60fb1-c5e6-4fd6-90ad-42f65683e301)
+![Schematic](./images/schematic.png)
 
 
 ### PCB:
 
-![PCB](https://github.com/user-attachments/assets/187f7447-1bfa-44f2-85ed-bc6b744c3ae3)
+![PCB](./images/pcb.png)
 
 
 # Firmware Overview
