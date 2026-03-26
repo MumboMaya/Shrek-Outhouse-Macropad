@@ -25,7 +25,7 @@ Here is my PCB, it was made using Kicad!
 
 ### PCB:
 
-![PCB](./images/pcb.png)
+![PCB](./images/pcb.jpeg)
 
 
 # Firmware Overview
