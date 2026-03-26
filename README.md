@@ -11,7 +11,8 @@ Everything fits together using X4 M3x18 Bolts and x4 M3 nuts
 
 My CAD Model has 3 different 3D printable parts. After putting together the bottom and middle part you pust then insert the PCB and then wire all your components. Once that is finished, you can place the top cover.  This Macropad holds 6 differenrt programable keys. 
 
-Onshape project :https://cad.onshape.com/documents/106fde0273fca8a43f39e24d/w/18bff7a09fb1d6f77b12e438/e/b6e0fe9afac343b420846645?renderMode=0&uiState=69c4f5f4dcf056a8a53934ab
+
+Onshape project:https://cad.onshape.com/documents/106fde0273fca8a43f39e24d/w/18bff7a09fb1d6f77b12e438/e/b6e0fe9afac343b420846645?renderMode=0&uiState=69c4f5f4dcf056a8a53934ab
 
 
 ![CAD](./images/CAD.jpeg)
